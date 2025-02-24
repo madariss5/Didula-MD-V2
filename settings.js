@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID === undefined ? 'put your session id' : process.env.SESSION_ID,
     PREFIX: process.env.PREFIX || '.',
-    FOOTER: process.env.FOOTER || "*✦𝐃𝐢𝐝𝐮𝐥𝐚 𝐌𝐃 𝐕𝟐✦*",
+    FOOTER: process.env.FOOTER || "*✦𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻✦*",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/za6ytm.jpg",
     PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
 HEART_REACT: process.env.HEART_REACT || 'false',
